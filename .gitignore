@@ -1,4 +1,14 @@
 
 
+# Build process folders.
+/build
+/distribution
 
+# Python bytecode files.
+**/__pycache__
+*.pyc
+
+# Pytest files.
+.pytest_cache
+.coverage
 
